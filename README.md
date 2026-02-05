@@ -7,9 +7,9 @@ The Dashboard layout consists of a top navigation bar and a responsive card grid
 The Admin Panel is fully responsive and includes light and dark theme switching using Material UI’s ThemeProvider. Custom styled overrides are applied to components such as Button, Card, and AppBar to maintain a consistent look and feel. The multi-panel layout collapses into a single-column layout on mobile devices.
 
 Navigation between pages is handled using React Router, enabling smooth transitions without page reloads. The application runs locally using the Vite development server on
-http://localhost:5173.
+http://localhost:5173/
 
 Key technologies used in this project include React.js, Material UI, React Router DOM, Vite, CSS, and npm. The project demonstrates modern UI design principles, responsiveness, theme customization, and efficient component-based development.
 **
 
-http://localhost:5173.**
+http://localhost:5173/**
